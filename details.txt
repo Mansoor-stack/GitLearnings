@@ -1,4 +1,4 @@
-This file contains details of computer A
+This file contains details of computer B
 
-Mansoor
-Farheen
+Ahmed
+Taranum
